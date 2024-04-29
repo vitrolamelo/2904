@@ -1,0 +1,24 @@
+@import url('https//fonts.googleapis.com/css2?family=Jockey+One&display=swap');
+.cabecalho{
+    background-color: #B31312;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+}
+.titulo{
+    font-family:  Jockey One;
+    font-weight: 400;
+    font-style: normal;
+    color:#FFFFFF ;
+    font-size: 96px;
+    
+}
+.imagem_cabecalho_pinterest{
+    width: 190px
+
+}
+.finalidade{
+    background-image: linear linear-gradient(#EFBBBB
+    #FDFDFD   );
+}
+
